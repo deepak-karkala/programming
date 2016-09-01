@@ -27,4 +27,5 @@ class Fraction:
 
 a = Fraction(1,4)
 b = Fraction(1,2)
+print(a.num)
 print(a+b)
